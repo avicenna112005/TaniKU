@@ -70,7 +70,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 Pertama 
 ```sh
-git clone https://github.com/LumiNovryM/Laravel-Template.git
+https://github.com/ZanCo21/TaniKU.git
 composer install
 composer update
 cp .env.example .env
